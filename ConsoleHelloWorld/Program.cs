@@ -10,6 +10,7 @@ namespace ConsoleHelloWorld
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("second commit from Git");
             Console.WriteLine("Hello World from Git");
         }
     }
