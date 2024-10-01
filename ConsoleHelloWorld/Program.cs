@@ -10,6 +10,7 @@ namespace ConsoleHelloWorld
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("open in VS 2022");
             Console.WriteLine("2024 00 commit to Git");
             Console.WriteLine("second commit from Git");
             Console.WriteLine("Hello World from Git");
